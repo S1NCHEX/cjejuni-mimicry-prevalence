@@ -11,3 +11,6 @@ __pycache__/
 *.tsv
 *.tsv.gz
 *.csv
+*.tsv
+*.tsv.gz
+*.csv
